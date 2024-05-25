@@ -21,17 +21,9 @@ This repository contains a collection of basic Python projects designed to help 
   - Exploring third-party libraries to enhance projects with additional features.
   - Understanding the structure and use of Python packages.
 
-- **File Handling**:
-  - Reading from and writing to files to manage data persistence.
-  - Handling file operations safely using context managers.
-
 - **Error Handling**:
   - Implementing try-except blocks to manage and handle exceptions gracefully.
   - Ensuring robust code by anticipating and managing potential errors.
-
-- **Basic Algorithms**:
-  - Implementing simple algorithms for sorting, searching, and other common tasks.
-  - Understanding the logic and efficiency behind basic algorithmic solutions.
 
 Each project in this repository serves as a practical example to demonstrate these concepts, helping to build a solid foundation in Python programming. Feel free to explore the projects and use them as a reference or starting point for your own Python journey.
 
