@@ -29,10 +29,6 @@ This repository contains a collection of basic Python projects designed to help 
   - Implementing try-except blocks to manage and handle exceptions gracefully.
   - Ensuring robust code by anticipating and managing potential errors.
 
-- **Object-Oriented Programming (OOP)**:
-  - Creating and using classes and objects to model real-world entities.
-  - Implementing inheritance, polymorphism, encapsulation, and abstraction.
-
 - **Basic Algorithms**:
   - Implementing simple algorithms for sorting, searching, and other common tasks.
   - Understanding the logic and efficiency behind basic algorithmic solutions.
